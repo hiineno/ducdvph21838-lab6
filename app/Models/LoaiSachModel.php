@@ -1,0 +1,2 @@
+<?php
+$tableName = 'loaisach';
